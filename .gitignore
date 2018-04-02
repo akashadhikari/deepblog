@@ -1,0 +1,5 @@
+db.sqlite3
+*.sqlite3
+.idea
+*.pyc
+node_modules
